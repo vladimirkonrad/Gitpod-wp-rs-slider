@@ -1,0 +1,5 @@
+# ignore everything in wp, plugins and themes directory.
+
+**/wp
+**/plugins
+**/themes
